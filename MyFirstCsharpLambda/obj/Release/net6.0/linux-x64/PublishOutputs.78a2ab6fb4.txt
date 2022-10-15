@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\MyFirstCsharpLambda.deps.json
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\MyFirstCsharpLambda.runtimeconfig.json
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\MyFirstCsharpLambda.pdb
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Release\net6.0\publish\MyFirstCsharpLambda.dll

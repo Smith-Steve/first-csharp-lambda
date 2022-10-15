@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\MyFirstCsharpLambda.deps.json
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\MyFirstCsharpLambda.runtimeconfig.json
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\MyFirstCsharpLambda.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\MyFirstCsharpLambda.pdb
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.AssemblyInfo.cs
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.csproj.CopyComplete
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\refint\MyFirstCsharpLambda.dll
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.pdb
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\MyFirstCsharpLambda.genruntimeconfig.cache
+C:\Users\Owner\source\repos\MyFirstCsharpLambda\MyFirstCsharpLambda\obj\Debug\net6.0\ref\MyFirstCsharpLambda.dll
